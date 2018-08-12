@@ -9,16 +9,14 @@
 - Moving Forward, It will be one of the poineer of offchain and cross chain data distrbution solution for blockchain scalablity   solutions.
 
 
-Start by command -
+### Submitted in ETHINDIA2018
+
+#### Install / Run the demo
 ```
   - Install EmbarkJs - $npm i -g embark
   - Edit contract.config according to your preffered ethereum network
   - Run App - $embark run
 ```
 
-### Submitted in ETHINDIA2018
 
-#### Install / Run the demo
-- Install EmbarkJs - $npm i -g embark
-- Edit contract.config according to your preffered ethereum network
-- Run App - $embark run
+
