@@ -10,11 +10,11 @@
 
 
 Start by command -
-'''
+```
   - Install EmbarkJs - $npm i -g embark
   - Edit contract.config according to your preffered ethereum network
   - Run App - $embark run
-'''
+```
 
 ### Submitted in ETHINDIA2018
 
