@@ -12,11 +12,15 @@
 ### Submitted in ETHINDIA2018
 
 #### Install / Run the demo
-```
-  - Install EmbarkJs - $npm i -g embark
+  - Install EmbarkJs - 
+  ```
+  $npm i -g embark
+  ```
   - Edit contract.config according to your preffered ethereum network
-  - Run App - $embark run
-```
+  - Run App - 
+  ```
+  $embark run
+   ```
 
 
 
